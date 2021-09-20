@@ -16,3 +16,14 @@ var MarcasDeAuto;
 })(MarcasDeAuto || (MarcasDeAuto = {}));
 var tacoma = MarcasDeAuto.Toyota;
 console.log(tacoma);
+//ejemplo4
+function saludar2() {
+    console.log("Hola chaval");
+}
+saludar2();
+//ejemplo5
+function imprimirId(id) {
+    console.log("El id es " + id);
+}
+imprimirId(12);
+imprimirId('pito perez');
